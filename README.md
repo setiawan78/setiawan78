@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Indra Setiawan**.\
+Perkenalkan nama saya **Indra Setiawan**.
 
 <!--
 **setiawan78/setiawan78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
